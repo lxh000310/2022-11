@@ -1,0 +1,1 @@
+function actionHtmlWindow(n){return new ActionHtmlWindow(n)}
